@@ -1,4 +1,4 @@
-package com.krekerok.springbootjwtdemo.services;
+package com.krekerok.springbootjwtdemo.services.interfaces;
 
 import com.krekerok.springbootjwtdemo.pojo.LoginRequest;
 import com.krekerok.springbootjwtdemo.pojo.SignupRequest;

@@ -2,7 +2,7 @@ package com.krekerok.springbootjwtdemo.contollers;
 
 import com.krekerok.springbootjwtdemo.pojo.LoginRequest;
 import com.krekerok.springbootjwtdemo.pojo.SignupRequest;
-import com.krekerok.springbootjwtdemo.services.UserService;
+import com.krekerok.springbootjwtdemo.services.interfaces.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
